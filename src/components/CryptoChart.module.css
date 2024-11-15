@@ -1,0 +1,16 @@
+/* src/components/CryptoChart.module.css */
+
+.chartContainer {
+  margin-top: 20px;
+  padding: 20px;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  background-color: #3333;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.chartTitle {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #333;
+}
